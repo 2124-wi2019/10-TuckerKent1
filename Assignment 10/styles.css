@@ -1,0 +1,18 @@
+/*
+    class greenText created as specified
+*/
+.greenText {
+    color: green; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 2em;
+}
+/*
+    new class bigRed created
+*/
+.bigRed {
+    color: #990000; 
+    font-size: 5em;
+    border: 10px ridge gray;
+    max-width: 555px;
+    font-family: monospace;
+}
